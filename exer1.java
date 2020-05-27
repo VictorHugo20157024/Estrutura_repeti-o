@@ -18,7 +18,7 @@ public class exer1 {
 			if (num < 0 );
 			System.out.println(" O numero "+num +" é negativo");
 			
-			
+			// eu sou toop
 			
 		}
 					
